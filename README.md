@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on Digital media Computing & Design Lab, Zhejiang Unerversity.  
+
+![IshiKura-a](https://github-readme-stats.vercel.app/api?username=IshiKura-a&count_private=true)
