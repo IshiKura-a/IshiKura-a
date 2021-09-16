@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on Digital media Computing & Design Lab, Zhejiang Unerversity.  
 
-![IshiKura-a](https://github-readme-stats.vercel.app/api?username=IshiKura-a&count_private=true)
+![IshiKura-a](https://github-readme-stats.vercel.app/api?username=IshiKura-a&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshiKura-a&layout=compact&hide_border=true&langs_count=8&hide=html,css,less,ejs,scss,makefile,jupyter%20notebook)
